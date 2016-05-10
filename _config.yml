@@ -1,14 +1,28 @@
-layout_spectrum: 0.9516129
-typography_spectrum: 0
+name: EuroBikeClub
+favicon: null
+layout_spectrum: 0.60864
+typography_spectrum: 0.24663
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.517894
-  lightness: 0.3451848
-  brandStrength: 0.6630824
   brandColors:
     - '#948580'
     - '#020001'
     - '#DAD8D8'
     - '#5B4D44'
     - '#B0A7A4'
+  brandStrength: 0.75
+  lightness: 0.3451848
+  saturation: 0.517894
   rhythmicContrast: 0.2245001
-name: EuroBikeClub
+purpose: []
